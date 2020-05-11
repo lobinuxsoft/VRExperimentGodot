@@ -1,0 +1,2 @@
+﻿39413
+/home/lobinux/.local/share/godot/Godot_v3.2.1-stable_mono_x11.64
