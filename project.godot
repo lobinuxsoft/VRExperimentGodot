@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="VRExperimentGodot"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
 [gdnative]
@@ -24,4 +25,5 @@ singletons=[ "res://addons/godot_ovrmobile/godot_ovrmobile.gdnlib" ]
 
 [rendering]
 
+quality/filters/msaa=6
 environment/default_environment="res://default_env.tres"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VRExperimentGodot.612874642.00" t="ExcludeRecursive" />
+    <e p="F:\Repositorios\VRExperimentGodot" t="IncludeRecursive">
+      <e p=".mono\temp\bin" t="ExcludeRecursive" />
+      <e p=".mono\temp\obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="ScriptCS" t="Include">
+        <e p="ARVROriginWithInitAndMovement.cs" t="Include" />
+        <e p="OvrVrApiTypes.cs" t="Include" />
+      </e>
+      <e p="VRExperimentGodot.csproj" t="IncludeRecursive" />
+      <e p="VRExperimentGodot.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

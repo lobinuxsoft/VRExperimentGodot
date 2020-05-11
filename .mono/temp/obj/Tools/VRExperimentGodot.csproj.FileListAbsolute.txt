@@ -1,0 +1,5 @@
+F:\Repositorios\VRExperimentGodot\.mono\temp\bin\Tools\VRExperimentGodot.dll
+F:\Repositorios\VRExperimentGodot\.mono\temp\bin\Tools\VRExperimentGodot.pdb
+F:\Repositorios\VRExperimentGodot\.mono\temp\obj\Tools\VRExperimentGodot.csprojAssemblyReference.cache
+F:\Repositorios\VRExperimentGodot\.mono\temp\obj\Tools\VRExperimentGodot.dll
+F:\Repositorios\VRExperimentGodot\.mono\temp\obj\Tools\VRExperimentGodot.pdb
