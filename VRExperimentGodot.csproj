@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScriptCS\ARVROriginWithInitAndMovement.cs" />
+    <Compile Include="ScriptCS\ColFallowTarget.cs" />
     <Compile Include="ScriptCS\OvrVrApiTypes.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

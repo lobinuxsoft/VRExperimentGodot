@@ -100,9 +100,9 @@ func _check_and_perform_runtime_config():
 
 	if (ovr_performance):
 		# these are some examples of using the ovr .gdns APIs
-		ovr_performance.set_clock_levels(1, 1)
+		ovr_performance.set_clock_levels(2, 3)
 		ovr_performance.set_extra_latency_mode(ovrVrApiTypes.OvrExtraLatencyMode.VRAPI_EXTRA_LATENCY_MODE_ON)
-		ovr_performance.set_foveation_level(2);  # 0 == off; 4 == highest
+		ovr_performance.set_foveation_level(4);  # 0 == off; 4 == highest
 
 	_performed_runtime_config = true
 

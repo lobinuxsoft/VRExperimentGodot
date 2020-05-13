@@ -23,12 +23,13 @@ config/icon="res://icon.png"
 
 singletons=[ "res://addons/godot_ovrmobile/godot_ovrmobile.gdnlib" ]
 
-[mono]
+[physics]
 
-debugger_agent/wait_for_debugger=true
-debugger_agent/wait_timeout=10000
+common/physics_fps=72
+3d/physics_engine="Bullet"
 
 [rendering]
 
-quality/filters/msaa=6
+threads/thread_model=2
+quality/filters/msaa=5
 environment/default_environment="res://default_env.tres"

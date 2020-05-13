@@ -11,6 +11,7 @@
       </e>
       <e p="ScriptCS" t="Include">
         <e p="ARVROriginWithInitAndMovement.cs" t="Include" />
+        <e p="ColFallowTarget.cs" t="Include" />
         <e p="OvrVrApiTypes.cs" t="Include" />
       </e>
       <e p="VRExperimentGodot.csproj" t="IncludeRecursive" />

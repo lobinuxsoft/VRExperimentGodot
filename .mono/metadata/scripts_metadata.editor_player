@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"res://ScriptCS/ARVROriginWithInitAndMovement.cs":{"modified_time":"1589212762","class":{"namespace":"","class_name":"ARVROriginWithInitAndMovement","nested":false}}}
+=======
+{"res://ScriptCS/ARVROriginWithInitAndMovement.cs":{"modified_time":"1589162585","class":{"namespace":"","class_name":"ARVROriginWithInitAndMovement","nested":false}},"res://ScriptCS/ColFallowTarget.cs":{"modified_time":"1589373035","class":{"namespace":"","class_name":"ColFallowTarget","nested":false}}}
+>>>>>>> Stashed changes

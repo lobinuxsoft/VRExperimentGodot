@@ -7,7 +7,7 @@
 script = ExtResource( 3 )
 
 [node name="ARVRCamera" type="ARVRCamera" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.72656, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.73, 0 )
 
 [node name="LeftTouchController" type="ARVRController" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.2, 1.72656, -0.4 )
